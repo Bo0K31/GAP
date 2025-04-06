@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "test-b646d",
+    "test=b646d": "test-b646d"
+  },
+  "targets": {},
+  "etags": {}
 }
